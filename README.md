@@ -15,8 +15,9 @@
 - 🤝 I'll do a Nodejs server connected to Java server by using gRPC after finish my currently working ONG APP. **Nodejs<->C#**
 
 - 📫 How to reach me **matias.damian.vallejos@gmail.com**
+<br/>
 
-- ⚡ Fun fact **HTML is a programming language :D**
+- ⚡ Out of development stuff, I was studying to be a **Volunteer FireFigther**, bcoz I love the dicipline, the team work and help others. I love the phrase "**If we both go in, we both go out.**" Thats why you can see some FireFighters references from me. So you know a bit of who I'm now. 😄
 <br/>
 
 <h3 align="left">Connect with me:</h3>
