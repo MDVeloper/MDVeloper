@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Java with Spring boot, on microservices.
 
-- 🌱 My next learnings for 2022 and 2023 are **Advanced Java, Advanced Springboot, Typescript, Different integrations, gRPC, Electron**
+- 🌱 My next learnings for 2022 and 2023 are **Advanced Java, Advanced Springboot, Different integrations, gRPC, Electron**
 
 - 🤝 I do my own projects after work every day.
   - 2021: Simple website of countries with info of each one consuming an API + own db for create new countries. [Reactjs, Redux, Nodejs, Express, PostgreSQL]
