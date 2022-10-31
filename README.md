@@ -8,22 +8,22 @@
 
 - 🔭 I’m currently working on Java with Spring boot, on microservices.
 
-- 🌱 My next learnings for 2022 and 2023 are **Advanced Java, Advanced Springboot, Different integrations, gRPC, Electron**
+- 🌱 My next learnings for 2023-2025 will be: **Realtime and Parallelization with Java, Advanced Springboot & Spring Security, gRPC and Different integrations.**
 
 - 🤝 I do my own projects after work every day.
-  - 2021: Simple website of countries with info of each one consuming an API + own db for create new countries. [Reactjs, Redux, Nodejs, Express, PostgreSQL]
+  - 2021: Simple website of countries to improve my frontend with info of each one consuming an API + own db for create new countries. [Reactjs, Redux, Nodejs, Express, PostgreSQL]
   - 2021: Own Discord Bot [Nodejs, Mysql]
   - 2022: Working on Nodejs server connected to Java server by using gRPC during 2022. [Nodejs<-Grpc->Java]
   - 2023: I will do a Desktop App (Updater/Launcher) this app will manage versions of different softwares, check the versions and checksums to download only the files needed [Electron/React/Redux/Java/Spring/Mysql]
 
-- 👯 I do some own projects and freelance works on the past too:
-  - Work as freelance for different customers (30++ on a Open Source projects based on a Masive Multiplayer Online Game Server [Java imperative and monolitic with Mysql]
+- 👯 I do some own projects and freelance works:
+  - Work as freelance for different customers (30++ and counting) On a Open Source projects based on a Masive Multiplayer Online Game Server [Java imperative and monolitic with Mysql]
   - I do the backend on a Single Page Aplication for a ONG [Nodejs]
  
  
 <br/>
 
-- ⚡ Out of development stuff, I was studying to be a **Volunteer FireFigther**, bcoz I love the dicipline, the team work and help others. I love the phrase "**If we both go in, we both go out.**" Thats why you can see some FireFighters references from me. So you know a bit of who I'm now. 😄
+- ⚡ Out of development stuff, I was studying and training to be a **Volunteer FireFigther**, because I love the dicipline, the team work and help others. I love the phrase "**If we both go in, we both go out.**" Thats why you can see some FireFighters references from me. So you know a bit of who I'm now. 😄
 <br/>
 
 
