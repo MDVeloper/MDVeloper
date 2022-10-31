@@ -6,7 +6,8 @@
 <h3 align="center">A passionate Backend developer from Argentina</h3>
 <br/>
 
-- 🔭 I’m currently working on Java with Spring boot, on microservices.
+- 🔭 I’m currently working for Hitachi as Software Engineer.
+Currently working with Java, Spring boot and relational databases. Based microservices with orchest way.
 
 - 🌱 My next learnings for 2023-2025 will be: **Realtime and Parallelization with Java, Advanced Springboot & Spring Security, gRPC and Different integrations.**
 
