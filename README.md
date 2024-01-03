@@ -9,22 +9,27 @@
 - 🔭 I’m currently working for Hitachi as Software Engineer.
 Currently working with Java, Spring boot and relational databases. Based microservices with orchest way.
 
-- 🌱 My next learnings for 2023-2025 will be: **Realtime and Parallelization with Java, Advanced Springboot & Spring Security, gRPC and Different integrations.**
+- 🌱 My own **Learnings & Practices**:
+  ✅ - 2021: Simple website of countries to improve my frontend with info of each one consuming an API + own db for create new countries. [Reactjs, Redux, Nodejs, Express, PostgreSQL]
+  ✅ - 2021: Own Discord Bot to practice nodejs, implement sockets and event-driven [Nodejs, Mysql, SocketIO] 
+  ✅ - 2022: Working on Nodejs server connected to Java server by using gRPC for practice. [Nodejs<-Grpc->Java]
+  ✅ - 2023: I make a Spring Boot (Java) microservices (2 of them) in order to practice Kafka a bit. [Java, Springboot, Kafka, Mysql]
+  🔜 - 2024: I will try to learn and practice Docker, Linux and some other stuff with a project.
+  ⛔ - 2025: I wanna improve SpringBoot security/batch and some other stuff too.
+  ⛔ - 2026: I wanna do a Desktop App (Updater/Launcher) this app will manage versions of different softwares, check the versions and checksums to download only the files needed.(In order to practice checksums checks, files re-write, logs files, and a log etc. I will bring more details when the times come more closer)
 
-- 🤝 I do my own projects after work every day.
-  - 2021: Simple website of countries to improve my frontend with info of each one consuming an API + own db for create new countries. [Reactjs, Redux, Nodejs, Express, PostgreSQL]
-  - 2021: Own Discord Bot [Nodejs, Mysql]
-  - 2022: Working on Nodejs server connected to Java server by using gRPC during 2022. [Nodejs<-Grpc->Java]
-  - 2023: I will do a Desktop App (Updater/Launcher) this app will manage versions of different softwares, check the versions and checksums to download only the files needed [Electron/React/Redux/Java/Spring/Mysql]
 
-- 👯 I do some own projects and freelance works:
-  - Work as freelance for different customers (30++ and counting) On a Open Source projects based on a Masive Multiplayer Online Game Server [Java imperative and monolitic with Mysql]
-  - I do the backend on a Single Page Aplication for a ONG [Nodejs]
- 
- 
+- 👯 **Own freelance work after my daily job**:
+  ✅ - Work as freelance for different customers (30++ and counting) On a Open Source projects based on a Masive Multiplayer Online Game Server [Java imperative and monolitic with Mysql]
+  ✅ - I do the backend on a Single Page Aplication for a ONG [Nodejs]
+  ✅ - I work as Chief Technology Officer for a freelance/contractor project, I communicate with the CEO and PO.
+  I lead a team of 4 members, use Trello and Jira to organice the project and the team tasks and make documentation too.
+  I do development tasks too with the backend team member, we work with Java 17 and Nodejs as main, and MySql database.
+  🔥 - Im currently working for a customer doing a web account panel with lot of features (will update the list of features in near future)
+
 <br/>
 
-- ⚡ Out of development stuff, I was studying and training to be a **Volunteer FireFigther**, because I love the dicipline, the team work and help others. I love the phrase "**If we both go in, we both go out.**" Thats why you can see some FireFighters references from me. So you know a bit of who I'm now. 😄
+- ⚡ Out of development/IT stuff, I was studying and training to be a **Volunteer FireFigther**, because I love the dicipline, the team work and help others. I love the phrase "**If we both go in, we both go out.**" Thats why you can see some FireFighters references from me. So you know a bit of who I'm now. 😄
 <br/>
 
 
