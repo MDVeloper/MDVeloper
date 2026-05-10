@@ -6,24 +6,27 @@
 <h3 align="center">A passionate Backend developer from Argentina</h3>
 <br/>
 
-- 🔭 I’m currently working for Hitachi as Software Engineer.
-Currently working with Java, Spring boot and relational databases. Based microservices with orchest way.
+- 🔭 Worked for GlobalLogic (Hitachi Group Company) as "Software Engineer" for 4 years.
+There, i was working with Java 8, 17 and 21. Spring boot(2.8.x and 3.2.x) and relational databases. Based microservices with orchest way.
+
+- 🔥 Currently working for Santander Bank as "Field Software Engineer + AI"
+There i work with java and kotlin. Versions 17 & 21 and springboot 2.8.x and 3.5.14, use relational databases, microservices non orchest way, with BFF, keycloak, own login libs, TScale, ApiGee.
+Here, are a AI First apply team, we use Devin AI + Windsurf with orquestation sub-agents, own scrum manage, quarters goals, we do field job too, like a PO.
 
 - 🌱 My own **Learnings & Practices**:
   - ✅ 2021: Simple website of countries to improve my frontend with info of each one consuming an API + own db for create new countries. [Reactjs, Redux, Nodejs, Express, PostgreSQL]
   - ✅ 2021: Own Discord Bot to practice nodejs, implement sockets and event-driven [Nodejs, Mysql, SocketIO] 
   - ✅ 2022: Working on Nodejs server connected to Java server by using gRPC for practice. [Nodejs<-Grpc->Java]
   - ✅ 2023: I make a Spring Boot (Java) microservices (2 of them) in order to practice Kafka a bit. [Java, Springboot, Kafka, Mysql]
-  - 🔜 2024: I will try to learn and practice Docker, Linux and some other stuff with a project.
-  - ⛔ 2025: I wanna improve SpringBoot security/batch and some other stuff too.
-  - ⛔ 2026: I wanna do a Desktop App (Updater/Launcher) this app will manage versions of different softwares, check the versions and checksums to download only the files needed.(In order to practice checksums checks, files re-write, logs files, and a log etc. I will bring more details when the times come more closer)
+  - ✅ 2024: I learn and practice Docker, Linux and some other stuff with a project, plus improve my SpringBoot security/batch knowledge.
 
 
 - 👯 **Own freelance work after my daily job**:
   - ✅ Work as freelance for different customers (30++ and counting) On a Open Source projects based on a Masive Multiplayer Online Game Server [Java imperative and monolitic with Mysql]
   - ✅ I do the backend on a Single Page Aplication for a ONG [Nodejs]
   - ✅ I work as Chief Technology Officer for a freelance/contractor project, I communicate with the CEO and PO.
-  - 🔥 Im currently working for a customer as Team Lead doing a web account panel with lot of features (will update the list of features in near future)
+  - * Im currently working for a customer as Team Lead doing a web account panel with lot of features (will update the list of features in near future)
+  - * Currently bring learnings of AI to a developers team, including orchestation of sub-agents, make MCPs and improve proceedments with AI (Confluence, Jira, Flyways docs, etc)
 
 <br/>
 
